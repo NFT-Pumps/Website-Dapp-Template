@@ -1,0 +1,34 @@
+.nav-logo{
+    
+    margin-left: 15px;
+  }
+
+.nav-bar{
+  background-color: #8101A7;
+    border-bottom: 1px solid black;
+}
+
+  @font-face {
+    font-family: 'DiloWorld';
+    src: url("/assets/font/DiloWorld.ttf") format("truetype");
+    font-weight: bold;
+    
+  }
+
+  *{
+      font-family: 'DiloWorld' !important;
+  }
+
+  .walleticon{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+    right: 10px;
+    position: relative;
+    color: white;
+  }
+
+  .nav-link{
+      margin-right: 20px;
+      color: white !important;
+  }
